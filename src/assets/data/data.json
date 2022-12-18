@@ -1,0 +1,22 @@
+{
+    "encabezado":{
+        "nombres":"Emiliano Martín",
+        "apellidos":"Zerbino",
+        "UrlFondo":"./assets/imagenes/img_fondo.jpg",
+        "UrlPerfil":"./assets/imagenes/foto_perfil.jpg",
+        "especialidades":["Técnico Universitario en Programación", "Desarrollador Full Stack Argentina Programa (en proceso)"],
+        "instituciones":[{"urlLogo":"./assets/imagenes/logo_utn.jpg","nombre":"UTN"},{"urlLogo":"./assets/imagenes/AP4.bmp","nombre":"A P 4.0"}]
+    },
+
+    "acercaDe":{
+        "texto":"Graduado como Técnico Universitario en Programación de la Universidad Tecnológica Nacional de Argentina y con un marcado interés en el área de desarrollo Backend y de disenio y administración de Bases de Datos, busco oportunidad para adquirir experiencia en el sector de desarrollo de software. Soy una persona curiosa, me gusta encontrar soluciones a problemas complejos, volcarlas a código y materializarlas en aplicaciones. Me agrada trabajar en equipo, cooperando con mis companieros y aportando mis conocimientos y experiencia, con el fin de aprender y lograr un crecimiento tanto en el área profesional como personal. Me gusta integrar grupos de trabajo, donde pueda trabajar codo a codo con personas de mi misma profesión y personas de otras áreas que complementen mi trabajo; y me gustaría algun dia poder liderar estos grupos y guiarlos en el desarrollo de soluciones informaticas. Por último, me agrada incrementar día a día mis conocimientos en el área de desarrollo de software a través de cursos y diversos tutoriales, por lo que me gustaría conseguir una vacante en una empresa que cuente con programas de formación y desarrollo profesional."
+    },
+
+    "educacion":[{"titulo":"Técnico universitario en Programacón","institucion":"Universidad Técnologica Nacional (UTN)","anioInicio":"2020","anioFinalizacion":"2021","urlLogo":"./assets/imagenes/logo_utn.jpg"},{"titulo":"Desarrollador Full Stack","institucion":"Argentina Programa 4.0","anioInicio":"2020","anioFinalizacion":"actualidad","urlLogo":"./assets/imagenes/AP4.bmp"}],
+
+    "experiencia":[{"empresa":"Grandi y Asociados Software y Soluciones Web","cargo":"Prácticas Profesionales","inicio":"Jul/2021","finalizacion":"Dic/2021","urlLogo":"assets/imagenes/logo_grandi.bmp"}],
+    "tecnologias":[{"tecnologia":"Java","nivel":"70"},{"tecnologia":"C#","nivel":"80"},{"tecnologia":"SQL","nivel":"70"},{"tecnologia":"HTML5","nivel":"50"},{"tecnologia":"Phyton","nivel":"15"},{"tecnologia":"React","nivel":"15"}],
+    "skills":[{"skill":"Resolución de Problemas","nivel":95},{"skill":"Trabajo en Equipo","nivel":90},{"skill":"Diseño Backend","nivel":70},{"skill":"Diseño Frontend","nivel":40}],
+    "proyectos":[{"urlLogo":"assets/imagenes/logo_github.png","url":"https://github.com/EmilianoZerbino"}],
+    "contactos":[{"urlLogo":"assets/imagenes/logo_linkedin.png","url":"https://linkedin.com/in/emiliano-zerbino"}]
+}
